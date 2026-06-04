@@ -1,0 +1,51 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#0B1028"/>
+      <stop offset="1" stop-color="#071A2D"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 88) rotate(140) scale(360 260)">
+      <stop stop-color="#5EEAD4" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 340) rotate(-22) scale(420 280)">
+      <stop stop-color="#60A5FA" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" stroke="#5EEAD4" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glow1)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glow2)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#grid)"/>
+  <g opacity="0.24">
+    <path d="M860 92H1120C1142.09 92 1160 109.909 1160 132V284C1160 306.091 1142.09 324 1120 324H860C837.909 324 820 306.091 820 284V132C820 109.909 837.909 92 860 92Z" stroke="#5EEAD4" stroke-width="2"/>
+    <path d="M868 132H1112" stroke="#60A5FA" stroke-width="2"/>
+    <path d="M868 174H1050" stroke="#5EEAD4" stroke-width="2"/>
+    <path d="M868 216H1094" stroke="#60A5FA" stroke-width="2"/>
+    <path d="M868 258H1012" stroke="#5EEAD4" stroke-width="2"/>
+    <circle cx="1130" cy="114" r="6" fill="#5EEAD4"/>
+    <circle cx="1108" cy="114" r="6" fill="#60A5FA"/>
+    <circle cx="1086" cy="114" r="6" fill="#94A3B8"/>
+  </g>
+  <rect x="72" y="74" width="112" height="112" rx="28" fill="#07111F" stroke="#5EEAD4" stroke-width="2"/>
+  <text x="128" y="149" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="900" fill="#5EEAD4">L</text>
+  <text x="72" y="236" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" fill="#E9F1FF">Luis Teodoro</text>
+  <text x="72" y="282" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600" fill="#5EEAD4">IT Infrastructure • Linux • Automation • Local AI</text>
+  <text x="72" y="324" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#A9B7D8">Windows Server · Zabbix · GLPI · Docker · Python · Embedded Linux</text>
+  <g transform="translate(72 354)">
+    <rect width="138" height="34" rx="17" fill="#0B162E" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="69" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E9F1FF">Offline-first</text>
+  </g>
+  <g transform="translate(226 354)">
+    <rect width="108" height="34" rx="17" fill="#0B162E" stroke="#60A5FA" stroke-opacity="0.55"/>
+    <text x="54" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E9F1FF">Homelab</text>
+  </g>
+  <g transform="translate(350 354)">
+    <rect width="142" height="34" rx="17" fill="#0B162E" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <text x="71" y="23" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#E9F1FF">Self-hosted</text>
+  </g>
+</svg>

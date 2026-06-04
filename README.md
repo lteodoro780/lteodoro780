@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Luis Teodoro - IT Infrastructure, Linux, Automation and Local AI" />
+</p>
+
 # Luis Teodoro | IT Infrastructure Analyst
 
 **IT Infrastructure • Linux • Windows Server • Monitoring • Automation • Local AI • Embedded Linux**
