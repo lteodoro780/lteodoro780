@@ -1,4 +1,4 @@
-# Luiz Teodoro | IT Infrastructure Analyst
+# Luis Teodoro | IT Infrastructure Analyst
 
 **IT Infrastructure • Linux • Windows Server • Monitoring • Automation • Local AI • Embedded Linux**
 
@@ -33,7 +33,7 @@ Local AI assistant designed to support IT infrastructure teams with internal doc
 - Self-hosted local AI environment
 - Ollama-based local models
 - RAG-oriented internal knowledge base
-- Planned integrations with GLPI, Zabbix and Grafana
+- Experimental integrations with GLPI, Zabbix and Grafana
 - Internal workflow via Web UI, API and Telegram
 - Focus on privacy, restricted networks and offline-first environments
 
@@ -67,9 +67,9 @@ Practical labs and documentation about IT infrastructure, Linux servers, Windows
 
 ### [Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)
 
-Portable local AI assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting using local models.
+Portable local AI assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting using local GGUF models, llama.cpp and a lightweight local Web UI.
 
-**Technologies:** `Python` `llama.cpp` `GGUF` `Local AI` `Offline-first` `Windows`
+**Technologies:** `Python` `llama.cpp` `GGUF` `Local AI` `Offline-first` `Windows` `Web UI` `HTML` `CSS`
 
 ---
 
