@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Luis Teodoro - IT Infrastructure, Linux, Automation and Local AI" />
+  <img src="./assets/sentinela-ascii.gif" width="850" alt="Sentinela Local Agent ASCII Banner">
 </p>
 
 # IT Infrastructure Analyst
