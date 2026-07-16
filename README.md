@@ -4,25 +4,25 @@
 
 # IT Infrastructure Analyst
 
-**IT Infrastructure • Linux • Windows Server • Monitoring • Automation • Local AI • Embedded Linux**
+**Linux • Windows Server • Networking • Monitoring • Automation • CloudOps/DevOps Path**
 
-I am an IT Infrastructure professional with hands-on experience in technical support, Linux and Windows environments, networking, monitoring, automation, and practical documentation for real operational scenarios.
+IT Infrastructure professional with hands-on experience in support, servers, networking, monitoring, automation and technical documentation.
 
-My work focuses on building functional, low-cost and reliable solutions for infrastructure environments, combining traditional IT operations with automation, self-hosted tools and local AI experiments.
+My work combines traditional infrastructure operations with scripting, containers, self-hosted services and local AI. My current career direction is CloudOps/DevOps, adding public cloud, infrastructure as code and CI/CD to the operational foundation I already use in real environments.
 
 ---
 
-## Professional Focus
+## Core Experience
 
-- IT Infrastructure and Technical Support
-- Linux Server and Linux Desktop
-- Windows Server, Active Directory and Group Policy
-- Networking, troubleshooting and technical documentation
-- Monitoring with Zabbix and Grafana
-- ITSM and asset management with GLPI and OCS Inventory
-- Docker, scripting and operational automation
-- Local AI with Ollama, Open WebUI and offline models
-- Embedded Linux and ARM device reuse
+| Area | Technologies and practices |
+|---|---|
+| Systems | Linux, Debian, Ubuntu, Windows Server, Active Directory, Group Policy |
+| Networking | TCP/IP, DNS, DHCP, switching, troubleshooting, SSH, VNC |
+| Monitoring | Zabbix, Grafana, logs, alerts and incident investigation |
+| ITSM and inventory | GLPI and OCS Inventory |
+| Automation | Bash, PowerShell, Python, REST APIs and webhooks |
+| Containers and virtualization | Docker, Docker Compose, XCP-ng and self-hosted services |
+| Applied AI | Ollama, Open WebUI, local models, RAG experiments and offline-first environments |
 
 ---
 
@@ -30,88 +30,96 @@ My work focuses on building functional, low-cost and reliable solutions for infr
 
 ### [SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)
 
-Local AI assistant designed to support IT infrastructure teams with internal documentation, technical support, ticket analysis, monitoring data and operational automation.
+Local AI assistant designed to support infrastructure teams with internal documentation, technical support, monitoring data and operational automation.
 
-**Highlights:**
+**Highlights**
 
-- Self-hosted local AI environment
-- Ollama-based local models
-- RAG-oriented internal knowledge base
+- Self-hosted and offline-first architecture
+- Ollama and Open WebUI integration
+- RAG-oriented knowledge base
 - Experimental integrations with GLPI, Zabbix and Grafana
-- Internal workflow via Web UI, API and Telegram
-- Focus on privacy, restricted networks and offline-first environments
+- API and Telegram workflows
+- Privacy-oriented deployment for restricted networks
 
-**Technologies:** `Linux` `Docker` `Python` `FastAPI` `Ollama` `Open WebUI` `RAG` `GLPI` `Zabbix`
+**Stack:** Linux, Docker, Python, FastAPI, Ollama, Open WebUI, GLPI and Zabbix
 
 ---
 
 ### [Vanguardeira Project](https://github.com/lteodoro780/vanguardeira-project)
 
-Project focused on reusing ARM TV Boxes as lightweight Linux computers for educational labs, institutional environments and technical experimentation.
+Infrastructure and digital inclusion project that transformed repurposed ARM TV Boxes into lightweight Linux computers.
 
-**Highlights:**
+**Highlights**
 
-- ARM hardware reuse
-- Linux deployment on low-cost devices
-- Experiments with Armbian and Debian ARM64
-- Amlogic S905X4 and Rockchip RK322x testing
-- eMMC installation, SD boot and hardware validation documentation
+- Deployment and standardization involving 60 repurposed devices
+- Linux and ARM hardware validation
+- Armbian and Debian ARM64 experiments
+- Amlogic and Rockchip device testing
+- Boot, storage, eMMC and SD card documentation
+- Low-cost infrastructure and hardware reuse
 
-**Technologies:** `Armbian` `Debian ARM64` `Linux` `Amlogic` `Rockchip` `eMMC` `Embedded Linux`
+**Stack:** Armbian, Debian ARM64, Linux, Amlogic, Rockchip, eMMC and Embedded Linux
 
 ---
 
 ### [Infra TI Labs](https://github.com/lteodoro780/infra-ti-labs)
 
-Practical labs and documentation about IT infrastructure, Linux servers, Windows Server, networking, monitoring and automation.
+Practical labs and documentation about infrastructure, Linux, Windows Server, networking, monitoring and automation.
 
-**Technologies:** `Debian` `Ubuntu` `Windows Server` `Active Directory` `Zabbix` `GLPI` `OCS Inventory` `PowerShell` `Shell Script`
+**Stack:** Debian, Ubuntu, Windows Server, Active Directory, Zabbix, GLPI, OCS Inventory, PowerShell and Shell Script
 
 ---
 
 ### [Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)
 
-Portable local AI assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting using local GGUF models, llama.cpp and a lightweight local Web UI.
+Portable local assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting.
 
-**Technologies:** `Python` `llama.cpp` `GGUF` `Local AI` `Offline-first` `Windows` `Web UI` `HTML` `CSS`
-
----
-
-## Technical Skills
-
-![Linux](https://img.shields.io/badge/Linux-333?style=for-the-badge&logo=linux)
-![Debian](https://img.shields.io/badge/Debian-333?style=for-the-badge&logo=debian)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-333?style=for-the-badge&logo=ubuntu)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![PowerShell](https://img.shields.io/badge/PowerShell-333?style=for-the-badge&logo=powershell)
-![Zabbix](https://img.shields.io/badge/Zabbix-333?style=for-the-badge)
-![GLPI](https://img.shields.io/badge/GLPI-333?style=for-the-badge)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-333?style=for-the-badge&logo=windows)
-![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+**Stack:** Python, llama.cpp, GGUF, Local AI, Windows and a lightweight Web UI
 
 ---
 
-## Currently Working On
+## Current Career Roadmap
 
-- IT infrastructure automation
-- Local AI applied to support and monitoring workflows
-- GLPI, Zabbix and AI assistant integrations
-- Embedded Linux on ARM devices
-- Technical documentation for real infrastructure labs
-- Offline and self-hosted environments
+These are active learning and portfolio goals, not claims of professional production experience:
+
+1. AWS foundations: IAM, VPC, EC2, S3, RDS and CloudWatch
+2. Infrastructure as Code with Terraform
+3. Configuration automation with Ansible
+4. CI/CD pipelines with GitHub Actions
+5. Production-oriented Python with logging, tests and APIs
+6. Docker Compose patterns, backup and secrets management
+7. Kubernetes fundamentals and observability
+
+The objective is to connect my existing infrastructure background with reproducible, monitored and automated cloud environments.
 
 ---
 
-## Profile Goal
+## Target Roles
 
-This GitHub profile works as a technical portfolio, documenting real projects, labs, scripts and infrastructure experiments.
+- IT Infrastructure Analyst
+- Linux Systems Administrator
+- Cloud Support Analyst
+- Junior CloudOps Analyst
+- Junior DevOps Analyst
+- Infrastructure Automation Analyst
 
-The goal is to show not only final results, but also the process behind each solution: problem, testing, troubleshooting, correction and implementation.
+---
+
+## Portfolio Principles
+
+Every project should explain:
+
+- the original problem;
+- the architecture and technical decisions;
+- implementation and troubleshooting;
+- security and privacy considerations;
+- measurable results;
+- how to reproduce the solution safely.
 
 ---
 
 ## Contact
 
+- LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/)
 - GitHub: [@lteodoro780](https://github.com/lteodoro780)
-- E-mail: lteodoro780@gmail.com
+- Email: lteodoro780@gmail.com
