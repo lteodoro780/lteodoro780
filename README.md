@@ -2,13 +2,7 @@
 
 <div align="center">
 
-[![Linux](https://img.shields.io/badge/Linux-supported-333?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-required-333?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Self--Hosted](https://img.shields.io/badge/Self--Hosted-yes-333?style=for-the-badge)](https://github.com/lteodoro780)
-[![Linux](https://img.shields.io/badge/Linux-supported-333?style=for-the-badge&logo=linux)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-required-333?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![Self--Hosted](https://img.shields.io/badge/Self--Hosted-yes-333?style=for-the-badge)](https://github.com/lteodoro780)
-[![Local AI](https://img.shields.io/badge/Local_AI-Ollama-333?style=for-the-badge)](https://ollama.com/)
+[![Linux](https://img.shields.io/badge/Linux-supported-333?style=for-the-badge&logo=linux)](https://www.linux.org/) [![Docker](https://img.shields.io/badge/Docker-required-333?style=for-the-badge&logo=docker)](https://www.docker.com/) [![Self--Hosted](https://img.shields.io/badge/Self--Hosted-yes-333?style=for-the-badge)](https://github.com/lteodoro780) [![Local AI](https://img.shields.io/badge/Local_AI-Ollama-333?style=for-the-badge)](https://ollama.com/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=lteodoro780&style=for-the-badge&color=333333)
 
@@ -150,6 +144,7 @@ IT Infrastructure Analyst · Linux Systems Administrator · Cloud Support Analys
 ### Contact
 
 LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/) · GitHub: [@lteodoro780](https://github.com/lteodoro780) · Email: lteodoro780@gmail.com
+
 
 
 
