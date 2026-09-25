@@ -5,7 +5,12 @@
 [![Linux](https://img.shields.io/badge/Linux-supported-333?style=for-the-badge&logo=linux)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/Docker-required-333?style=for-the-badge&logo=docker)](https://www.docker.com/)
 [![Self--Hosted](https://img.shields.io/badge/Self--Hosted-yes-333?style=for-the-badge)](https://github.com/lteodoro780)
+[![Linux](https://img.shields.io/badge/Linux-supported-333?style=for-the-badge&logo=linux)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-required-333?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Self--Hosted](https://img.shields.io/badge/Self--Hosted-yes-333?style=for-the-badge)](https://github.com/lteodoro780)
 [![Local AI](https://img.shields.io/badge/Local_AI-Ollama-333?style=for-the-badge)](https://ollama.com/)
+
+![Profile views](https://komarev.com/ghpvc/?username=lteodoro780&style=for-the-badge&color=333333)
 
 **🇧🇷 [Português](#-pt) &nbsp;|&nbsp; 🇺🇸 [English](#-en)**
 
@@ -50,6 +55,10 @@ Stack: Debian, Ubuntu, Windows Server, Active Directory, Zabbix, GLPI, OCS Inven
 **[Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)** — Assistente portátil local para diagnósticos defensivos offline, suporte de infraestrutura e troubleshooting técnico.
 Stack: Python, llama.cpp, GGUF, IA local, Windows e uma Web UI leve
 
+### 🔭 Agora
+
+Estudando Terraform e Ansible, preparando labs práticos de CI/CD com GitHub Actions.
+
 ### Roadmap de carreira atual
 
 Metas ativas de aprendizado e portfólio, não afirmações de experiência profissional em produção:
@@ -65,6 +74,15 @@ Metas ativas de aprendizado e portfólio, não afirmações de experiência prof
 ### Vagas-alvo
 
 Analista de Infraestrutura de TI · Administrador de Sistemas Linux · Analista de Suporte Cloud · Analista Júnior CloudOps · Analista Júnior DevOps · Analista de Automação de Infraestrutura
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lteodoro780&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lteodoro780&layout=compact&hide_border=true" />
+
+</div>
 
 ### Contato
 
@@ -109,6 +127,10 @@ Stack: Debian, Ubuntu, Windows Server, Active Directory, Zabbix, GLPI, OCS Inven
 **[Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)** — Portable local assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting.
 Stack: Python, llama.cpp, GGUF, Local AI, Windows and a lightweight Web UI
 
+### 🔭 Now
+
+Studying Terraform and Ansible, building hands-on CI/CD labs with GitHub Actions.
+
 ### Current Career Roadmap
 
 Active learning and portfolio goals, not claims of professional production experience:
@@ -128,3 +150,6 @@ IT Infrastructure Analyst · Linux Systems Administrator · Cloud Support Analys
 ### Contact
 
 LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/) · GitHub: [@lteodoro780](https://github.com/lteodoro780) · Email: lteodoro780@gmail.com
+
+
+
