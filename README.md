@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=lteodoro780&style=for-the-badge&color=333333)
 
-**🇧🇷 [Português](#-pt) &nbsp;|&nbsp; 🇺🇸 [English](#-en)**
+**🇧🇷 [Português](#-versão-em-português) &nbsp;|&nbsp; 🇺🇸 [English](#-english-version)**
 
 </div>
 
@@ -144,6 +144,7 @@ IT Infrastructure Analyst · Linux Systems Administrator · Cloud Support Analys
 ### Contact
 
 LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/) · GitHub: [@lteodoro780](https://github.com/lteodoro780) · Email: lteodoro780@gmail.com
+
 
 
 
