@@ -73,8 +73,8 @@ Analista de Infraestrutura de TI · Administrador de Sistemas Linux · Analista 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lteodoro780&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lteodoro780&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=lteodoro780&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=lteodoro780&layout=compact&hide_border=true" />
 
 </div>
 
@@ -144,6 +144,8 @@ IT Infrastructure Analyst · Linux Systems Administrator · Cloud Support Analys
 ### Contact
 
 LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/) · GitHub: [@lteodoro780](https://github.com/lteodoro780) · Email: lteodoro780@gmail.com
+
+
 
 
 
