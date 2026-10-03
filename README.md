@@ -37,6 +37,9 @@ Meu trabalho combina operações tradicionais de infraestrutura com scripting, c
 
 ### Projetos em destaque
 
+**[Sistema de Selos Veiculares](https://github.com/lteodoro780/sistema-selos-veiculares)** — Aplicação Django para gestão de pessoas, veículos e selos de identificação, com QR Code/PDF, ocorrências, painel operacional e integração LPR/ANPR. A versão pública é sanitizada, possui CI no GitHub Actions e 93 testes automatizados.
+Stack: Python, Django 5.2, SQLite, Waitress, WhiteNoise, ReportLab, JavaScript, GitHub Actions e Linux/systemd
+
 **[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Assistente de IA local para dar suporte a equipes de infraestrutura com documentação interna, suporte técnico, dados de monitoramento e automação operacional.
 Stack: Linux, Docker, Python, FastAPI, Ollama, Open WebUI, GLPI e Zabbix
 
@@ -54,7 +57,7 @@ Stack: Python, Django, SQLite, QR Code, Waitress, 93 testes automatizados e CI n
 
 ### 🔭 Agora
 
-Estudando Terraform e Ansible, preparando labs práticos de CI/CD com GitHub Actions.
+Estudando Terraform e Ansible e aplicando GitHub Actions em projetos do portfólio.
 
 ### Roadmap de carreira atual
 
@@ -112,6 +115,9 @@ My work combines traditional infrastructure operations with scripting, container
 
 ### Featured Projects
 
+**[Vehicle Seal Management System](https://github.com/lteodoro780/sistema-selos-veiculares)** — Django application for managing people, vehicles and identification seals, with QR Code/PDF generation, operational occurrences, a vehicle dashboard and LPR/ANPR integration. The public version is sanitized, includes GitHub Actions CI and 93 automated tests.
+Stack: Python, Django 5.2, SQLite, Waitress, WhiteNoise, ReportLab, JavaScript, GitHub Actions and Linux/systemd
+
 **[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Local AI assistant designed to support infrastructure teams with internal documentation, technical support, monitoring data and operational automation.
 Stack: Linux, Docker, Python, FastAPI, Ollama, Open WebUI, GLPI and Zabbix
 
@@ -129,7 +135,7 @@ Stack: Python, Django, SQLite, QR Code, Waitress, 93 automated tests and GitHub 
 
 ### 🔭 Now
 
-Studying Terraform and Ansible, building hands-on CI/CD labs with GitHub Actions.
+Studying Terraform and Ansible while applying GitHub Actions in portfolio projects.
 
 ### Current Career Roadmap
 
