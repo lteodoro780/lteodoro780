@@ -49,6 +49,9 @@ Stack: Debian, Ubuntu, Windows Server, Active Directory, Zabbix, GLPI, OCS Inven
 **[Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)** — Assistente portátil local para diagnósticos defensivos offline, suporte de infraestrutura e troubleshooting técnico.
 Stack: Python, llama.cpp, GGUF, IA local, Windows e uma Web UI leve
 
+**[Sistema de Selos Veiculares](https://github.com/lteodoro780/sistema-selos-veiculares)** — Sistema Django para gestão de pessoas, veículos e selos de identificação com QR Code, consulta operacional, ocorrências e integração LPR/ANPR.
+Stack: Python, Django, SQLite, QR Code, Waitress, 93 testes automatizados e CI no GitHub Actions
+
 ### 🔭 Agora
 
 Estudando Terraform e Ansible, preparando labs práticos de CI/CD com GitHub Actions.
@@ -121,6 +124,9 @@ Stack: Debian, Ubuntu, Windows Server, Active Directory, Zabbix, GLPI, OCS Inven
 **[Hermes Security Portable](https://github.com/lteodoro780/hermes-security-portable)** — Portable local assistant for offline defensive diagnostics, infrastructure support and technical troubleshooting.
 Stack: Python, llama.cpp, GGUF, Local AI, Windows and a lightweight Web UI
 
+**[Vehicle Seal Management System](https://github.com/lteodoro780/sistema-selos-veiculares)** — Django system for managing people, vehicles and QR Code identification seals, with operational lookup, incident records and LPR/ANPR integration.
+Stack: Python, Django, SQLite, QR Code, Waitress, 93 automated tests and GitHub Actions CI
+
 ### 🔭 Now
 
 Studying Terraform and Ansible, building hands-on CI/CD labs with GitHub Actions.
@@ -144,6 +150,7 @@ IT Infrastructure Analyst · Linux Systems Administrator · Cloud Support Analys
 ### Contact
 
 LinkedIn: [Luis O. Florencio](https://www.linkedin.com/in/luis-o-florencio/) · GitHub: [@lteodoro780](https://github.com/lteodoro780) · Email: lteodoro780@gmail.com
+
 
 
 
