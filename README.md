@@ -40,8 +40,8 @@ Meu trabalho combina operações tradicionais de infraestrutura com scripting, c
 **[Sistema de Selos Veiculares](https://github.com/lteodoro780/sistema-selos-veiculares)** — Aplicação Django para gestão de pessoas, veículos e selos de identificação, com QR Code/PDF, ocorrências, painel operacional e integração LPR/ANPR. A versão pública é sanitizada, possui CI no GitHub Actions e 93 testes automatizados.
 Stack: Python, Django 5.2, SQLite, Waitress, WhiteNoise, ReportLab, JavaScript, GitHub Actions e Linux/systemd
 
-**[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Assistente de IA local para dar suporte a equipes de infraestrutura com documentação interna, suporte técnico, dados de monitoramento e automação operacional.
-Stack: Linux, Docker, Python, FastAPI, Ollama, Open WebUI, GLPI e Zabbix
+**[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Ambiente de IA local e offline para redes restritas, com Ollama e Open WebUI em Docker Compose, scripts de backup, healthcheck e isolamento de rede. Integrações com Zabbix e GLPI e base de conhecimento com RAG estão em desenvolvimento.
+Stack: Linux, Docker Compose, Ollama, Open WebUI e Shell Script
 
 **[Vanguardeira Project](https://github.com/lteodoro780/vanguardeira-project)** — Projeto de infraestrutura e inclusão digital que transformou TV Boxes ARM reaproveitadas em computadores Linux leves (60 dispositivos).
 Stack: Armbian, Debian ARM64, Linux, Amlogic, Rockchip, eMMC e Embedded Linux
@@ -115,8 +115,8 @@ My work combines traditional infrastructure operations with scripting, container
 **[Vehicle Seal Management System](https://github.com/lteodoro780/sistema-selos-veiculares)** — Django application for managing people, vehicles and identification seals, with QR Code/PDF generation, operational occurrences, a vehicle dashboard and LPR/ANPR integration. The public version is sanitized, includes GitHub Actions CI and 93 automated tests.
 Stack: Python, Django 5.2, SQLite, Waitress, WhiteNoise, ReportLab, JavaScript, GitHub Actions and Linux/systemd
 
-**[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Local AI assistant designed to support infrastructure teams with internal documentation, technical support, monitoring data and operational automation.
-Stack: Linux, Docker, Python, FastAPI, Ollama, Open WebUI, GLPI and Zabbix
+**[SENTINELA-AI](https://github.com/lteodoro780/SENTINELA-AI)** — Local, offline-first AI environment for restricted networks, running Ollama and Open WebUI on Docker Compose with backup, healthcheck and network-lockdown scripts. Zabbix/GLPI integrations and a RAG knowledge base are under development.
+Stack: Linux, Docker Compose, Ollama, Open WebUI and Shell Script
 
 **[Vanguardeira Project](https://github.com/lteodoro780/vanguardeira-project)** — Infrastructure and digital inclusion project that transformed repurposed ARM TV Boxes into lightweight Linux computers (60 devices).
 Stack: Armbian, Debian ARM64, Linux, Amlogic, Rockchip, eMMC and Embedded Linux
