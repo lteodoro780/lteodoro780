@@ -1,4 +1,6 @@
-﻿[![TLUIZ Labs Infrastructure Banner](assets/profile-banner.gif)](assets/profile-banner.gif)
+﻿[![Luis O. Florencio — Infraestrutura de TI](assets/profile-banner.gif)](assets/profile-banner.gif)
+
+<h1 align="center">Luis O. Florencio</h1>
 
 <div align="center">
 
