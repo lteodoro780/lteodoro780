@@ -39,7 +39,7 @@ Meu trabalho combina operações tradicionais de infraestrutura com scripting, c
 
 ### Projetos em destaque
 
-**[Migração Kubuntu — 300+ estações](https://lteodoro780.github.io/casos/migracao-kubuntu.html)** — Migração de mais de 300 estações de trabalho para Kubuntu integrado ao Active Directory: implantação em massa por imagem clonada (Rescuezilla), GPO no Linux com CID e scripts Bash para hostname único por VLAN, antivírus, atualizações via mirror apt interno e impressoras via CUPS. [Documentação](https://github.com/lteodoro780/tluizlabs/blob/main/kubuntu-enterprise/deployment-300-estacoes.md)
+**[Migração Kubuntu — 300+ estações](https://lteodoro780.github.io/casos/migracao-kubuntu.html)** — Liderei a migração de mais de 300 estações de trabalho para Kubuntu integrado ao Active Directory: implantação em massa por imagem clonada (Rescuezilla), GPO no Linux com CID e scripts Bash para hostname único por VLAN, antivírus, atualizações via mirror apt interno e impressoras via CUPS. [Documentação](https://github.com/lteodoro780/tluizlabs/blob/main/kubuntu-enterprise/deployment-300-estacoes.md)
 Stack: Kubuntu, Active Directory, CID, Rescuezilla, Bash, DHCP/VLAN, apt mirror e CUPS
 
 **[Sistema de Selos Veiculares](https://github.com/lteodoro780/sistema-selos-veiculares)** — Aplicação Django para gestão de pessoas, veículos e selos de identificação, com QR Code/PDF, ocorrências, painel operacional e integração LPR/ANPR. A versão pública é sanitizada, possui CI no GitHub Actions e 93 testes automatizados.
@@ -117,7 +117,7 @@ My work combines traditional infrastructure operations with scripting, container
 
 ### Featured Projects
 
-**[Kubuntu Migration — 300+ workstations](https://lteodoro780.github.io/casos/migracao-kubuntu.html)** — Migration of more than 300 workstations to Kubuntu joined to Active Directory: mass deployment from a cloned image (Rescuezilla), Group Policy on Linux with CID and Bash scripts for unique per-VLAN hostnames, antivirus, updates through an internal apt mirror and printers through CUPS. [Documentation](https://github.com/lteodoro780/tluizlabs/blob/main/kubuntu-enterprise/deployment-300-estacoes.md)
+**[Kubuntu Migration — 300+ workstations](https://lteodoro780.github.io/casos/migracao-kubuntu.html)** — Led the migration of more than 300 workstations to Kubuntu joined to Active Directory: mass deployment from a cloned image (Rescuezilla), Group Policy on Linux with CID and Bash scripts for unique per-VLAN hostnames, antivirus, updates through an internal apt mirror and printers through CUPS. [Documentation](https://github.com/lteodoro780/tluizlabs/blob/main/kubuntu-enterprise/deployment-300-estacoes.md)
 Stack: Kubuntu, Active Directory, CID, Rescuezilla, Bash, DHCP/VLAN, apt mirror and CUPS
 
 **[Vehicle Seal Management System](https://github.com/lteodoro780/sistema-selos-veiculares)** — Django application for managing people, vehicles and identification seals, with QR Code/PDF generation, operational occurrences, a vehicle dashboard and LPR/ANPR integration. The public version is sanitized, includes GitHub Actions CI and 93 automated tests.
