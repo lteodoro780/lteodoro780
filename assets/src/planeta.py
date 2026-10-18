@@ -14,7 +14,7 @@ name_font = ImageFont.truetype(F + "DejaVuSansCondensed-Bold.ttf", 52)
 small = ImageFont.truetype(F + "DejaVuSansMono.ttf", 14)
 smallb = ImageFont.truetype(F + "DejaVuSansMono-Bold.ttf", 15)
 
-BG = (6, 19, 27)
+BG = (5, 6, 7)                    # preto de terminal
 CW = mono.getlength("M")          # largura de um caractere
 CH = 12                           # altura da linha
 R = 168                           # raio do planeta em px
@@ -76,9 +76,9 @@ SEA_DARK, SEA_LIT = (10, 55, 85), (56, 189, 248)
 
 def static_layer():
     im = Image.new("RGB", (W, H), BG); d = ImageDraw.Draw(im)
-    for x in range(0, W, 30): d.line([(x, 0), (x, H)], fill=(12, 34, 46))
-    for y in range(0, H, 30): d.line([(0, y), (W, y)], fill=(12, 34, 46))
-    d.rectangle([12, 12, W - 13, H - 13], outline=(16, 92, 74))
+    # linhas de varredura bem discretas, como num monitor
+    for y in range(0, H, 3): d.line([(0, y), (W, y)], fill=(9, 11, 12))
+    d.rectangle([12, 12, W - 13, H - 13], outline=(20, 60, 45))
     d.text((34, 40), "luis@l0-noc:~$ ./planeta.sh", font=small, fill=(100, 116, 139))
     d.text((34, 92), "LUIS O.", font=name_font, fill=(248, 250, 252))
     d.text((34, 150), "FLORENCIO", font=name_font, fill=(248, 250, 252))
@@ -112,7 +112,7 @@ for f in range(FRAMES):
                     col = lerp(SEA_DARK, SEA_LIT, 0.15 + 0.7 * g)
                 if s < 0.04:            # lado noturno: quase apagado
                     ch = "." if land[r, c] else " "
-                    col = (12, 52, 48)
+                    col = (14, 40, 34)
                 d.text((px, py), ch, font=mono, fill=col)
             elif D2[r, c] <= (1 + 9 / R) ** 2:     # atmosfera fina
                 d.text((px, py), "·", font=mono, fill=(14, 116, 144))
