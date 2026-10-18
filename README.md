@@ -1,4 +1,4 @@
-﻿[![Luis O. Florencio — Infraestrutura de TI](assets/profile-banner.gif)](assets/profile-banner.gif)
+﻿[![Luis O. Florencio — Analista de Infraestrutura de TI](assets/banner-luis.gif)](https://lteodoro780.github.io/)
 
 <h1 align="center">Luis O. Florencio</h1>
 
