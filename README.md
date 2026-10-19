@@ -1,6 +1,5 @@
 ﻿[![Luis O. Florencio — Analista de Infraestrutura de TI](assets/banner-luis.gif)](https://lteodoro780.github.io/)
 
-<h1 align="center">Luis O. Florencio</h1>
 
 <div align="center">
 
